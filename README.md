@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **vue, ionic**
 
-- 👨‍💻 All of my projects are available at [https://github.com/olegbrz](https://github.com/olegbrz) and [olegbrz.github.io](olegbrz.github.io)
+- 👨‍💻 All of my projects are available at **[https://github.com/olegbrz](https://github.com/olegbrz)** and **[olegbrz.github.io](olegbrz.github.io)**
 
 - 💬 Ask me about **Python, Java, C#**
 
 - 📫 How to reach me: **brezitskyyoleg@gmail.com**
 
-- 📄 Know about my experiences: [resume](https://drive.google.com/file/d/12BeHeLIWQTfzdag4U-vnc3sdZ7a3zFgF/view?usp=sharing)
+- 📄 Know about my experiences: **[resume](https://drive.google.com/file/d/12BeHeLIWQTfzdag4U-vnc3sdZ7a3zFgF/view?usp=sharing)**
 
-- ⚡ Fun fact: I speak 5 languages 
+- ⚡ Fun fact: **I speak 5 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
