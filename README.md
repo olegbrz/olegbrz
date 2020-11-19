@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **vue, ionic**
 
-- 👨‍💻 All of my projects are available at **[https://github.com/olegbrz](https://github.com/olegbrz)** and **[olegbrz.github.io](olegbrz.github.io)**
+- 👨‍💻 All of my projects are available at **[https://github.com/olegbrz](https://github.com/olegbrz)** and **[olegbrz.github.io](https://olegbrz.github.io)**
 
 - 💬 Ask me about **Python, Java, C#**
 
