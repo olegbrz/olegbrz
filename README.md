@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **University of Málaga**
 
-- 🌱 I’m currently learning **vue, ionic and C++**
+- 🌱 I’m currently learning **Vue.js, C++ and Raspberry Pi GPIO**
 
 - 👨‍💻 All of my projects are available at **[https://github.com/olegbrz](https://github.com/olegbrz)** and **[olegbrz.github.io](https://olegbrz.github.io)**
 
