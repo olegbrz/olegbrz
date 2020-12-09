@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **University of Málaga**
 
-- 🌱 I’m currently learning **Vue.js with [@Matesanz](https://github.com/Matesanz) and [@garbanlp](https://github.com/garbanlp), C++ and Raspberry Pi GPIO at [MART repo](https://github.com/olegbrz/MART)
+- 🌱 I’m currently learning **Vue.js** with [@Matesanz](https://github.com/Matesanz) and [@garbanlp](https://github.com/garbanlp), **C++ and Raspberry Pi GPIO** at [MART repo](https://github.com/olegbrz/MART)
 - 💬 Ask me about **Python, Java, C#**
 
 - 📫 How to reach me: **brezitskyyoleg@gmail.com**
