@@ -1,4 +1,4 @@
-![https://github.com/vshymanskyy/StandWithUkraine/blob/main/banner-direct-single.svg](http://stand-with-ukraine.pp.ua/)
+[![StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine/blob/main/banner-direct-single.svg)](http://stand-with-ukraine.pp.ua/)
 
 <h1 align="center">Hi 👋, I'm Oleg Brezitskyy</h1>
 <h3 align="center">A passionate programmer from Ukraine </h3>
