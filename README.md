@@ -1,5 +1,7 @@
+![https://github.com/vshymanskyy/StandWithUkraine/blob/main/banner-direct-single.svg](http://stand-with-ukraine.pp.ua/)
+
 <h1 align="center">Hi 👋, I'm Oleg Brezitskyy</h1>
-<h3 align="center">A passionate script kiddie from Ukraine </h3>
+<h3 align="center">A passionate programmer from Ukraine </h3>
 
 - 🔭 I’m currently studying Bioinformatics @ **University of Málaga**
 
