@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Oleg Brezitskyy</h1>
 <h3 align="center">A passionate programmer from Ukraine </h3>
 
-- 🔭 I’m currently studying Bioinformatics @ **University of Málaga**
+- 🔭 I’m currently working as Software Engineer at Accenture.
 
-- 💬 Ask me about **Python, Java, C#**
+- 💬 Ask me about **Java, Python, C#**
 
 - 📫 How to reach me: **brezitskyyoleg@gmail.com**
 
